@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "GoogleSans",
+    "previewText": "Google Sans is a geometric sans-serif typeface designed by Google for use as a corporate branding face",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "ggsans-Bold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-BoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-BoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Bold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Panniku/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf"
+    }
+}
